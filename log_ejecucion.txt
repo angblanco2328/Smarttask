@@ -1,0 +1,10 @@
+=== SmartTask - Gestor de Tareas ===
+
+Menú:
+1. Agregar tarea
+2. Listar tareas
+3. Listar tareas completadas
+4. Marcar tarea como completada
+5. Eliminar tarea
+6. Salir
+Seleccione una opción: 
